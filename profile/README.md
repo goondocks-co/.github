@@ -1,26 +1,29 @@
-# Goondocks Consulting
+# Goondocks
 
-**AI-driven infrastructure for modern teams**
+Goondocks is Chris Kirby's open-source project studio. It is a durable home for practical software, small independent products, and technology built for charitable organizations.
 
-We help engineering teams integrate AI agents, design secure networks, and build platforms that scale. Strategy meets hands-on implementation.
+Everything starts in the open. Some projects are supported by GitHub Sponsors, some may grow into hosted services, and some are donated to organizations doing work that matters. The common thread is useful software, built carefully and shared.
 
-## What We Do
+## Projects
 
-### Consulting
-- **AI Strategy & Implementation** — AI agents, LLM integration, AI-assisted development workflows
-- **Network & Security Architecture** — Zero-trust, segmentation, DNS security, remote access
-- **Platform Engineering** — Kubernetes, internal developer platforms, self-hosted infrastructure
+### [Myco](https://myco.sh)
 
-### Development
-- **AI Tooling & Agents** — Custom agents, coding assistants, workflow automation
-- **Infrastructure Automation** — IaC, CI/CD, home & office automation
-- **Open Source Maintenance** — Keeping projects healthy and sustainable
+Project and team intelligence for AI-assisted software development. Myco helps coding agents recover the decisions, plans, gotchas, and codebase context they need to work consistently across sessions and tools.
 
-## Core Technologies
+- [Repository](https://github.com/goondocks-co/myco)
+- [Sponsor Myco](https://github.com/sponsors/goondocks-co?metadata_project=myco)
 
-`Kubernetes` `Docker` `Terraform` `ArgoCD` `GitHub` `Cloudflare` `Claude` `OpenAI` `Ollama` `Python` `TypeScript` `.NET`
+### [Open Agent Kit](https://openagentkit.app)
 
-## Get In Touch
+An earlier architecture and project-intelligence toolkit for AI-driven development. Open Agent Kit is in maintenance mode while active development continues through Myco.
 
-- **Web:** [goondocks.co](https://goondocks.co)
-- **Email:** [hello@goondocks.co](mailto:hello@goondocks.co)
+- [Repository](https://github.com/goondocks-co/open-agent-kit)
+
+## Open source first
+
+Sponsorship helps cover development, testing, documentation, release maintenance, and issue triage. It does not buy a private feature queue or bypass project review and safety practices.
+
+- [Explore all projects](https://goondocks.co/projects)
+- [Sponsor Goondocks projects](https://github.com/sponsors/goondocks-co)
+- [Website](https://goondocks.co)
+- [Contact](mailto:hello@goondocks.co)
