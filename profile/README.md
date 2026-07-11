@@ -1,6 +1,6 @@
 # Goondocks
 
-Goondocks is Chris Kirby's open-source project studio. It is a durable home for practical software, small independent products, and technology built for charitable organizations.
+Goondocks is an independent open-source project studio: a durable home for practical software, small sustainable products, and technology built for charitable organizations.
 
 Everything starts in the open. Some projects are supported by GitHub Sponsors, some may grow into hosted services, and some are donated to organizations doing work that matters. The common thread is useful software, built carefully and shared.
 
@@ -10,14 +10,10 @@ Everything starts in the open. Some projects are supported by GitHub Sponsors, s
 
 Project and team intelligence for AI-assisted software development. Myco helps coding agents recover the decisions, plans, gotchas, and codebase context they need to work consistently across sessions and tools.
 
+Myco is the current evolution of the project-intelligence work that began with Open Agent Kit.
+
 - [Repository](https://github.com/goondocks-co/myco)
 - [Sponsor Myco](https://github.com/sponsors/goondocks-co?metadata_project=myco)
-
-### [Open Agent Kit](https://openagentkit.app)
-
-An earlier architecture and project-intelligence toolkit for AI-driven development. Open Agent Kit is in maintenance mode while active development continues through Myco.
-
-- [Repository](https://github.com/goondocks-co/open-agent-kit)
 
 ## Open source first
 
